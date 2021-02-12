@@ -1,1 +1,37 @@
-/* Use Selectors and attributes for the HTML design */
+/* Use Selectors and attributes for the HTML design text-transform
+- text-decoration
+- text-shadow
+- letter-spacing
+- font-variant */
+.title {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 60px;
+    font-style: oblique;
+    color: blue;
+    text-shadow: black;
+    letter-spacing: 10px;
+    font-variant: initial;
+}
+ h2 {
+    font-family: 
+    font-size: 20px;
+    font-style: initial;
+    color: brown;
+    text-align: center;
+}
+.style{
+    text-decoration: lawngreen;
+    text-shadow: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 30px;
+    
+}
+h2{
+    text-decoration: violet;
+    text-shadow: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
