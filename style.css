@@ -3,33 +3,37 @@
 - text-shadow
 - letter-spacing
 - font-variant */
-.title {
-    font-family: 'Bebas Neue', cursive;
+.tit {
+  font-family: ;
     text-align: center;
-    font-size: 60px;
-    font-style: oblique;
-    color: blue;
-    text-shadow: black;
-    letter-spacing: 10px;
-    font-variant: initial;
+    color: #6942b8;
+    text-shadow: 15px 15px 13px rgba(0, 0, 0, 0.1);
+    
 }
- h2 {
-    font-family: 
-    font-size: 20px;
-    font-style: initial;
-    color: brown;
+#dim{
+    font-size: 90px;
+    text-decoration: line-through;
+    text-shadow: ;
+    letter-spacing: 30px;
+}
+
+#dim-1{
     text-align: center;
-}
-.style{
+    font-size: 30px;
+    text-decoration: underline;
+    
+ }
+ #sty{
     text-decoration: lawngreen;
     text-shadow: lightcoral;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-variant: small-caps;
     text-align: center;
     font-size: 30px;
+
     
 }
-h2{
+#sty-1{
     text-decoration: violet;
     text-shadow: yellow;
     font-family: Georgia, 'Times New Roman', Times, serif;
